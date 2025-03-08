@@ -1,57 +1,112 @@
+Thought for 8 seconds```markdown
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-Fsw4GiyQv6mgG6RMO3XbmzwC2W8Wj7.png" alt="Ramdhane Logo" width="100" height="100" style="border-radius: 50%;">
-  <h1>RAMDHANE</h1>
-  <p>A Modern Islamic Companion App for Quran, Duas, and Prayer Times</p>
-</div>
-
-## 📱 Screenshots
-
-<div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2864%29-kvm5L1vV6G95VYxIdfBOeeaCvfp6Yw.png" alt="Dashboard" width="800">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2867%29-WsS6dDAZ2FMA2MEpBOuIutIsp03PAs.png" alt="Dua Section" width="800">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2866%29-t8VvcLPfqijp4Xzd3xR9nDMT0ZVCYv.png" alt="Surah View" width="800">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2864%29-kvm5L1vV6G95VYxIdfBOeeaCvfp6Yw.png" alt="Ramdhane Dashboard" width="800"/>
+  
+  # Ramdhane - Your Modern Islamic Companion
+  
+  [![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/hafedhgunichi)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 </div>
 
 ## ✨ Features
 
 ### 📖 Quran Reading
-- Complete Quran with Arabic text
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2866%29-t8VvcLPfqijp4Xzd3xR9nDMT0ZVCYv.png" alt="Surah Reading" width="800"/>
+
+- Beautiful Quran reading interface with Arabic text
 - Multiple translations and transliterations
-- Beautiful, easy-to-use interface
-- Reading progress tracking
+- Audio recitations from renowned reciters
+- Bookmark verses and track reading progress
 
 ### 🤲 Dua Collection
-- Comprehensive collection of duas
-- Categorized by occasions
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2867%29-WsS6dDAZ2FMA2MEpBOuIutIsp03PAs.png" alt="Dua Collection" width="800"/>
+
+- Comprehensive collection of authentic duas
+- Categorized by occasions and needs
 - Arabic text with translations
-- Audio recitations
+- Audio recitations and downloadable MP3s
 
-### ⏰ Prayer Times
-- Accurate prayer times based on location
-- Multiple calculation methods
-- Prayer time notifications
-- Qibla direction
+### ⏰ Prayer Times & Calendar
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2865%29-G0ztgIqBk1JqS1p2utKxVlX8mdOII8.png" alt="Prayer Times" width="800"/>
 
-### 🔖 Bookmarks
-- Save favorite surahs, ayahs, and duas
-- Quick access to saved content
-- Organize and manage bookmarks
-- Sync across devices
+- Accurate prayer times based on your location
+- Beautiful Islamic calendar with important dates
+- Daily reminders and notifications
+- Track Ramadan and other Islamic events
 
-### 🌙 Dark Mode
-- Beautiful dark theme
-- Comfortable reading experience
-- Reduced eye strain
-- Space-themed background
+### 🎨 Customization
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2873%29-KzSySCYyVWLKOyIa5GGS5OGxOBkhHw.png" alt="Settings" width="800"/>
 
-### ⚙️ Customization
+- Dark mode optimized interface
 - Multiple theme colors
-- Adjustable font sizes
-- Language options
-- Audio preferences
+- Customizable font sizes
+- Language and translation preferences
+
+### 📚 Smart Features
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2868%29-Df4x4cc18skdvnapJq4osiFjiiqOwF.png" alt="Bookmarks" width="800"/>
+
+- Smart bookmarking system
+- Reading progress tracking
+- Search functionality
+- Offline access to content
 
 ## 🚀 Getting Started
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ramdhane.git
+git clone https://github.com/hafedhgunichi/ramdhane.git
+```
+
+2. Install dependencies
+
+
+```shellscript
+cd ramdhane
+npm install
+```
+
+3. Run the development server
+
+
+```shellscript
+npm run dev
+```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+
+## 🛠️ Built With
+
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [shadcn/ui](https://ui.shadcn.com/) - UI Components
+
+
+## 📱 Support
+
+Need help? Check out our [Help Center](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2869%29-LTCPQNYnJExrZyRRS6bhR6Pmwymx0b.png) or reach out to us:
+
+- Email: [hafedhgunichi@gmail.com](mailto:hafedhgunichi@gmail.com)
+- Website: [hafedhguenichi@gmail.com](mailto:hafedhguenichi@gmail.com)
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💖 Credits
+
+Made with love for the Muslim community by [Hafedh Gunichi](https://github.com/hafedhgunichi)
+
+---
+
+```plaintext
+
+```
