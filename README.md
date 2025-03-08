@@ -1,13 +1,9 @@
-Thought for 8 seconds```markdown
 <div align="center">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%20%2864%29-kvm5L1vV6G95VYxIdfBOeeaCvfp6Yw.png" alt="Ramdhane Dashboard" width="800"/>
   
   # Ramdhane - Your Modern Islamic Companion
   
   [![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4.svg)](https://github.com/hafedhgunichi)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 </div>
 
 ## ✨ Features
